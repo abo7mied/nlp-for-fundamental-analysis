@@ -27,7 +27,7 @@ person B takes tasks 2,5
 
 Day 11:
 
-6- Write code to load FNSPID and extract text
+6- Write code to load FNSPID and extract links
 
 7- Write code to extract text from a link
 

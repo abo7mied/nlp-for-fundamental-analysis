@@ -35,6 +35,10 @@ Day 12:
 
 6- Write code to load FNSPID and extract links
 
+REFERENCES:
+- How to load a tabular dataset: https://huggingface.co/docs/datasets/tabular_load
+- FNSPID Github Repo: https://huggingface.co/datasets/Zihan1004/FNSPID
+
 7- Write code to extract text from a link
 
 8- Write code to convert extracted text to the format we expect in the current code (a list of strings) or an alternative

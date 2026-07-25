@@ -41,13 +41,17 @@ Day 11:
 
 9- Streamline the whole pretraining code (especially if task 8 led to an alternative) and validate that, up to a parameter setup, it works perfectly
 
--- THIRD OBJECTIVE: 
+-- THIRD OBJECTIVE: Actually do pre-training --
 
 Day 12:
 
 10- Find the best parameter setup for pre-training (lr, d_model, num_layers, etc), that is the one with the lowest validation loss. Visualize loss per epoch/batch.
 
-Day 13: 
+
+-- FOURTH OBJECTIVE: proceed to the fine-tuning stage --
+
+Day 13 (vague): 
+
 11- Determine the fine-tuning task that best fits our purpose (summarization, sentiment analysis, or else) with justification
 
 12- Complete the fine-tuning process

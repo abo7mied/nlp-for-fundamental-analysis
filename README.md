@@ -10,6 +10,8 @@ Day 9:
 
 1- Understand the part of ABD branch code consisting of TransformerLanguageModel and what follows (blocks 13-19) and write a report/presentation that the other person can read to understand fully what's going on
 
+NOTE: task 1 already solves tasks 0 and 0.5 as a byproduct of understanding block 13.
+
 2- Merge the part of ABD branch code consisting of everything that precedes TransformerLanguageModel (blocks 1-12)
 
 Day 10:

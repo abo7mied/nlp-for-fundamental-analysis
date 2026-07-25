@@ -2,7 +2,7 @@ Tasks for the next week:
 
 -- FIRST OBJECTIVE: Merge ABD -- 
 
-Day 9:
+Day 10:
 
 0- Replace one-hot inputs with trainable token embeddings
 
@@ -14,7 +14,7 @@ NOTE: task 1 already solves tasks 0 and 0.5 as a byproduct of understanding bloc
 
 2- Merge the part of ABD branch code consisting of everything that precedes TransformerLanguageModel (blocks 1-12)
 
-Day 10:
+Day 11:
 
 3- Validate that, after merging blocks 1-12, the code works well, and debug if necessary
 
@@ -31,7 +31,7 @@ person B takes tasks 2,5
 
 -- SECOND OBJECTIVE: Streamline data processing from FNSPID (via huggingface probably) up to a list of strings (or an alternative) --
 
-Day 11:
+Day 12:
 
 6- Write code to load FNSPID and extract links
 
@@ -43,14 +43,14 @@ Day 11:
 
 -- THIRD OBJECTIVE: Actually do pre-training --
 
-Day 12:
+Day 13:
 
 10- Find the best parameter setup for pre-training (lr, d_model, num_layers, etc), that is the one with the lowest validation loss. Visualize loss per epoch/batch.
 
 
 -- FOURTH OBJECTIVE: proceed to the fine-tuning stage --
 
-Day 13 (vague): 
+Day 14 (vague): 
 
 11- Determine the fine-tuning task that best fits our purpose (summarization, sentiment analysis, or else) with justification
 

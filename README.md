@@ -4,6 +4,10 @@ Tasks for the next week:
 
 Day 9:
 
+0- Replace one-hot inputs with trainable token embeddings
+
+0.5- Add positional embeddings using nn.Embedding
+
 1- Understand the part of ABD branch code consisting of TransformerLanguageModel and what follows (blocks 13-19) and write a report/presentation that the other person can read to understand fully what's going on
 
 2- Merge the part of ABD branch code consisting of everything that precedes TransformerLanguageModel (blocks 1-12)

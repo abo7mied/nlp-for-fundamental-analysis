@@ -38,3 +38,14 @@ Day 11:
 7- Write code to extract text from a link
 
 8- Write code to convert extracted text to the format we expect in the current code (a list of strings) or an alternative
+
+9- Streamline the whole pretraining code (especially if task 8 led to an alternative) and validate that, up to a parameter setup, it works perfectly
+
+Day 12:
+
+10- Find the best parameter setup for fine-tuning (lr, d_model, num_layers, etc), that is the one with the lowest validation loss. Visualize loss per epoch/batch.
+
+Day 13: 
+11- Determine the fine-tuning task that best fits our purpose (summarization, sentiment analysis, or else) with justification
+
+12- Complete the fine-tuning process

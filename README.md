@@ -1,6 +1,7 @@
 Tasks for the next week:
 
 -- FIRST OBJECTIVE: Merge ABD -- 
+
 Day 9:
 1- Understand the part of ABD branch code consisting of TransformerLanguageModel and what follows (blocks 13-19) and write a report/presentation that the other person can read to understand fully what's going on
 
